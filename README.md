@@ -1,25 +1,20 @@
-# 📄 c-program
+# C Programming Projects
 
-This repository contains beginner-friendly C programs, including a simple calculator and more to come (file I/O, data structures, etc.).  
+This repository contains various C programs I have written as practice and portfolio projects.  
+These programs demonstrate basic to intermediate C programming concepts like loops, functions, arrays, and user interaction.
 
-## 🚀 Features
+## Projects Included
 
-- Addition, subtraction, multiplication, division (calculator)
-- Clean, beginner-friendly code
-- Well-commented
-- Easy to compile on any system
+- **Tic Tac Toe**: A console-based two-player Tic Tac Toe game.  
+- **Calculator**: Simple calculator program performing basic arithmetic operations.  
+- **Sorting Algorithms**: Programs implementing sorting methods like bubble sort, selection sort, etc.  
+- **Other small programs**: Various exercises to practice C programming.
 
-## 🖥️ How to Compile
+## How to Run
 
-Use GCC or any standard C compiler:
+1. Download or clone this repository.  
+2. Open the desired program file (`.c`) in a C compiler or IDE.  
+3. Compile the program. For example, using GCC:  
+   ```bash
+   gcc filename.c -o outputname
 
-```bash
-gcc calculator.c -o calculator
-./calculator
-👨‍💻 Author
-Ashwin Khadka
-
-Student programmer (Class 12)
-If you want to hire me to write or debug small C programs, please contact me via GitHub or check my Fiverr/Upwork profile (coming soon).
-
-Stay tuned for updates! 🚀
